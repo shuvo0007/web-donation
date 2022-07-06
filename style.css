@@ -4,7 +4,7 @@ body{
 }
 
 section{
-  height: 1000px;
+  height: 800px;
 }
 
 .color-white{
@@ -46,8 +46,12 @@ p{
 
 /* ----------2nd banner-------------------- */
 
+.height-1000{
+  height: 1000px;
+}
+
 .second-div{
-  padding: 150px;
+  padding: 200px 150px 200px 150px;
   text-align: center;
 }
 
@@ -164,8 +168,14 @@ p{
   padding-left: 2%;
 }
 
+.forth-h1{
+  padding-top: 40px;
+  font-size: 70px;
+  margin: 0%;
+}
+
 .p-4th{
-  
+  font-size: 20px;
 }
 
 .donation1{
