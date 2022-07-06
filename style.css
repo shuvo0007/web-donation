@@ -7,6 +7,10 @@ section{
   height: 800px;
 }
 
+p{
+  color: gray;
+}
+
 .color-white{
   color: white;
 }
@@ -123,6 +127,10 @@ p{
 
 .third-h2{
   font-size: 30px;
+}
+
+.thrid-p{
+  text-align: justify;
 }
 
 .third-box{
