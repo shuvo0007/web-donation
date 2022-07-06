@@ -103,3 +103,50 @@ p{
 .button-padding{
   padding-top: 30px;
 }
+
+.third-banner{
+  text-align: center;
+}
+
+.third-h1{
+  margin: 0%;
+  font-size: 60px;
+}
+
+.third-h2{
+  font-size: 30px;
+}
+
+.third-box{
+  display: flex;
+  padding-left: 7%;
+  padding-right: 20%;
+}
+
+.thrid-icon-box{
+  text-align: left;
+  width: 450px;
+  height: 400px;
+  padding: 50px;
+  background-color: rgba(128, 128, 128, 0.219);
+  border-radius: 5px;
+}
+
+.img-size{
+
+}
+.third-padding{
+  padding-left: 30px;
+}
+
+.third-color1{
+  background-color: #4f9da617;
+}
+
+.third-color2{
+  background-color: #ff59591e;
+}
+
+.third-color3{
+  background-color: #b8bb0515;
+}
