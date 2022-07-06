@@ -62,8 +62,7 @@ p{
 
 .amount{
   display: flex;
-  padding-left: 20%;
-  padding-right: 20%;
+  padding-left: 13%;
 }
 
 .money-box{
@@ -128,8 +127,7 @@ p{
 
 .third-box{
   display: flex;
-  padding-left: 7%;
-  padding-right: 20%;
+  padding-left: 3%;
 }
 
 .thrid-icon-box{
@@ -175,7 +173,7 @@ p{
 }
 
 .p-4th{
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .donation1{
@@ -183,8 +181,6 @@ p{
 }
 
 /* -----------5th banner------------------- */
-
-
 
 /* -----------6th banner------------------- */
 
