@@ -1,44 +1,44 @@
-body{
+body {
   margin: 0%;
-  font-family: 'Delius', cursive;
+  font-family: "Delius", cursive;
 }
 
-section{
+section {
   height: 800px;
 }
 
-p{
+p {
   color: gray;
 }
 
-.color-white{
+.color-white {
   color: white;
 }
 
 /* ------------1st banner------------------ */
 
-.top-banner{
-  background:linear-gradient(180deg,hsla(0, 0%, 100%, 0), hsl(0, 0%, 0%)), url(image/bg/first-banner-image.jpg), no-repeat, center;
+.top-banner {
+  background: linear-gradient(180deg, hsla(0, 0%, 100%, 0), hsl(0, 0%, 0%)),
+    url(image/bg/first-banner-image.jpg), no-repeat, center;
   width: 100%;
   height: 1000px;
   background-size: 100%;
 }
 
-.first-div{
+.first-div {
   padding: 300px;
   text-align: center;
-  }
+}
 
-.first-h1{
+.first-h1 {
   margin: 0%;
   font-size: 100px;
 }
-p{
+p {
   font-size: 30px;
-
 }
 
-.donate-button{
+.donate-button {
   text-decoration: none;
   background-image: linear-gradient(90deg, red, rgb(255, 166, 0));
   border-radius: 5px;
@@ -50,30 +50,30 @@ p{
 
 /* ----------2nd banner-------------------- */
 
-.height-1000{
+.height-1000 {
   height: 1000px;
 }
 
-.second-div{
+.second-div {
   padding: 200px 150px 200px 150px;
   text-align: center;
 }
 
-.second-h1{
+.second-h1 {
   margin: 0%;
   font-size: 80px;
 }
 
-.amount{
+.amount {
   display: flex;
   padding-left: 13%;
 }
 
-.money-box{
+.money-box {
   padding-left: 25px;
 }
 
-.h1-tk{
+.h1-tk {
   background-color: rgba(133, 133, 133, 0.356);
   text-align: center;
   color: gray;
@@ -85,60 +85,59 @@ p{
   font-size: 40px;
 }
 
-.h1-tk-color{
+.h1-tk-color {
   background-color: #ff59592d;
   text-align: center;
   color: gray;
   height: 75px;
   width: 125px;
-  border: 4px solid #FF5959;
+  border: 4px solid #ff5959;
   border-radius: 10px;
   padding: 50px 30px 30px 30px;
   font-size: 40px;
 }
 
-.input-amount{
+.input-amount {
   padding-left: 23%;
-  padding-right:23%;
+  padding-right: 23%;
 }
 
-.amount-input{
+.amount-input {
   border: none;
   outline: none;
   font-size: 30px;
   text-align: center;
-
 }
 
-.button-padding{
+.button-padding {
   padding-top: 30px;
 }
 
 /* -----------3rd banner------------------- */
 
-.third-banner{
+.third-banner {
   text-align: center;
 }
 
-.third-h1{
+.third-h1 {
   margin: 0%;
   font-size: 60px;
 }
 
-.third-h2{
+.third-h2 {
   font-size: 30px;
 }
 
-.thrid-p{
+.thrid-p {
   text-align: justify;
 }
 
-.third-box{
+.third-box {
   display: flex;
   padding-left: 3%;
 }
 
-.thrid-icon-box{
+.thrid-icon-box {
   text-align: left;
   width: 450px;
   height: 400px;
@@ -147,26 +146,25 @@ p{
   border-radius: 5px;
 }
 
-
-.third-padding{
+.third-padding {
   padding-left: 30px;
 }
 
-.third-color1{
+.third-color1 {
   background-color: #4f9da617;
 }
 
-.third-color2{
+.third-color2 {
   background-color: #ff59591e;
 }
 
-.third-color3{
+.third-color3 {
   background-color: #b8bb0515;
 }
 
 /* -----------4th banner------------------- */
 
-.half-width{
+.half-width {
   width: 40%;
   float: left;
   margin-left: 5%;
@@ -174,17 +172,17 @@ p{
   padding-left: 2%;
 }
 
-.forth-h1{
+.forth-h1 {
   padding-top: 40px;
   font-size: 70px;
   margin: 0%;
 }
 
-.p-4th{
+.p-4th {
   font-size: 25px;
 }
 
-.donation1{
+.donation1 {
   width: 100%;
 }
 
@@ -192,7 +190,7 @@ p{
 
 /* -----------6th banner------------------- */
 
-.sixth-input{
+.sixth-input {
   margin: 0%;
   font-size: 20px;
   height: 45px;
@@ -205,11 +203,11 @@ p{
   padding: 7px 15px 7px 15px;
 }
 
-.button-adj{
+.button-adj {
   padding-top: 10px;
 }
 
-.sub-button{
+.sub-button {
   margin: 0px;
   text-decoration: none;
   background-image: linear-gradient(90deg, red, rgb(255, 166, 0));
@@ -219,20 +217,19 @@ p{
   padding: 10px 30px 10px 30px;
   border-top-right-radius: 7px;
   border-bottom-right-radius: 7px;
-  
 }
 
-.sixth-1-div{
+.sixth-1-div {
   text-align: center;
 }
 
-.sixth-2-div{
+.sixth-2-div {
   padding-left: 20%;
   padding-right: 20%;
   height: 200px;
 }
 
-.mail-div{
+.mail-div {
   display: flex;
   padding-top: 120px;
   background-color: #bb9a051f;
@@ -241,27 +238,27 @@ p{
   padding-left: 25%;
 }
 
-.sixth-h1{
+.sixth-h1 {
   font-size: 70px;
   margin: 0%;
 }
 
 /* ---------footer-------- */
 
-.footer-div{
+.footer-div {
   padding-top: 50px;
   height: 250px;
   background-color: black;
   text-align: center;
 }
 
-.footer-h1-color{
-  font-family: 'Lobster', cursive;
+.footer-h1-color {
+  font-family: "Lobster", cursive;
   font-weight: 100;
   font-size: 50px;
-  color: #FF5959;
+  color: #ff5959;
 }
 
-.p-size{
+.p-size {
   font-size: 17px;
 }
